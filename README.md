@@ -37,3 +37,28 @@ https://www.youtube.com/watch?v=awRtgpRsdTQ
 </a>
 </li>
 </ol>
+
+## Executar localmente
+<ol>
+<li>
+ Clone este repositório ou baixe-o
+</li>
+<li>
+Instale as dependências:
+
+```
+yarn install
+```
+</li>
+<li>
+ Para Rodar a plicação Execute:
+
+```bash
+npm run dev
+# ou
+yarn dev
+# ou
+pnpm dev
+```
+</li>
+<ol>
